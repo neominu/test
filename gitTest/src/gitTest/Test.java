@@ -6,7 +6,7 @@ public class Test {
 		System.out.println("hello git~");
 		System.out.println("hello git22222~~");
 		System.out.println("wowowowowowo~~~~~~~333333");		
-		
+		System.out.println(" .~~~~~~");			
 		
 	}
 }
